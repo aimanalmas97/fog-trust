@@ -1,0 +1,6 @@
+com\trust\fog\App.class
+com\trust\fog\ShortList.class
+com\trust\fog\TrustUtilities.class
+com\trust\fog\Server.class
+com\trust\fog\ServerReader.class
+com\trust\fog\Method.class

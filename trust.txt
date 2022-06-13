@@ -1,0 +1,218 @@
+Unweighted Direct trust: 0.5
+Cosine Unweighted Indirect Trust: 0.5
+Jaccard Unweighted Indirect Trust: 0.5
+Past Alpha: 1.0
+Past Beta: 1.0
+
+
+
+
+
+Unweighted Direct trust: 0.5
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 1.148438
+Direct Weight using cosine: 0.5
+Indirect Weight using cosine: 0.5
+Cosine Direct: 0.25
+Cosine Indirect: 0.324219
+Cosine Total: 0.574219
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 1.1476923
+Direct Weight using jaccard: 0.5
+Indirect Weight using jaccard: 0.5
+Jaccard Direct: 0.25
+Jaccard Indirect: 0.32384616
+Jaccard Total: 0.57384616
+Past Alpha: 0.5007466
+Past Beta: 0.5007466
+
+
+Unweighted Direct trust: 0.73182666
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 1.3802646
+Direct Weight using cosine: 0.44475824
+Indirect Weight using cosine: 0.5552418
+Cosine Direct: 0.32548594
+Cosine Indirect: 0.2883981
+Cosine Total: 0.61388403
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 1.379519
+Direct Weight using jaccard: 0.4450469
+Indirect Weight using jaccard: 0.5549531
+Jaccard Direct: 0.32569718
+Jaccard Indirect: 0.28825346
+Jaccard Total: 0.6139506
+Past Alpha: 0.73237383
+Past Beta: 0.26837385
+
+
+Unweighted Direct trust: 0.60009843
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 1.2485363
+Direct Weight using cosine: 0.53409886
+Indirect Weight using cosine: 0.4659011
+Cosine Direct: 0.32051188
+Cosine Indirect: 0.34633
+Cosine Total: 0.66684186
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 1.2477908
+Direct Weight using jaccard: 0.53438973
+Indirect Weight using jaccard: 0.46561027
+Jaccard Direct: 0.32068643
+Jaccard Indirect: 0.34612012
+Jaccard Total: 0.6668066
+Past Alpha: 0.6005468
+Past Beta: 0.40020034
+
+
+Unweighted Direct trust: 0.8997761
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 1.5482141
+Direct Weight using cosine: 0.48141277
+Indirect Weight using cosine: 0.5185872
+Cosine Direct: 0.4331637
+Cosine Indirect: 0.31216636
+Cosine Total: 0.7453301
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 1.5474684
+Direct Weight using jaccard: 0.48170465
+Indirect Weight using jaccard: 0.51829535
+Jaccard Direct: 0.43342632
+Jaccard Indirect: 0.3119964
+Jaccard Total: 0.7454227
+Past Alpha: 0.9004483
+Past Beta: 0.10029881
+
+
+Unweighted Direct trust: 0.3004478
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 0.9488858
+Direct Weight using cosine: 0.62052286
+Indirect Weight using cosine: 0.37947717
+Cosine Direct: 0.18643472
+Cosine Indirect: 0.40237057
+Cosine Total: 0.5888053
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 0.94814014
+Direct Weight using jaccard: 0.62079805
+Indirect Weight using jaccard: 0.37920192
+Jaccard Direct: 0.1865174
+Jaccard Indirect: 0.40208617
+Jaccard Total: 0.58860356
+Past Alpha: 0.30067226
+Past Beta: 0.70007485
+
+
+Unweighted Direct trust: 0.55980617
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 1.2082441
+Direct Weight using cosine: 0.37659532
+Indirect Weight using cosine: 0.62340474
+Cosine Direct: 0.21082038
+Cosine Indirect: 0.24419867
+Cosine Total: 0.45501906
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 1.2074986
+Direct Weight using jaccard: 0.37686977
+Indirect Weight using jaccard: 0.6231302
+Jaccard Direct: 0.21097402
+Jaccard Indirect: 0.24409567
+Jaccard Total: 0.4550697
+Past Alpha: 0.5602245
+Past Beta: 0.44052267
+
+
+Unweighted Direct trust: 0.15030596
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 0.79874396
+Direct Weight using cosine: 0.4663999
+Indirect Weight using cosine: 0.53360003
+Cosine Direct: 0.070102684
+Cosine Indirect: 0.30243146
+Cosine Total: 0.37253416
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 0.7979983
+Direct Weight using jaccard: 0.46669087
+Indirect Weight using jaccard: 0.5333091
+Jaccard Direct: 0.07014642
+Jaccard Indirect: 0.3022721
+Jaccard Total: 0.37241852
+Past Alpha: 0.15041827
+Past Beta: 0.8503289
+
+
+Unweighted Direct trust: 0.46776277
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 1.1162007
+Direct Weight using cosine: 0.32883942
+Indirect Weight using cosine: 0.6711606
+Cosine Direct: 0.15381883
+Cosine Indirect: 0.21323197
+Cosine Total: 0.3670508
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 1.1154552
+Direct Weight using jaccard: 0.32909745
+Indirect Weight using jaccard: 0.6709025
+Jaccard Direct: 0.15393953
+Jaccard Indirect: 0.21315393
+Jaccard Total: 0.36709344
+Past Alpha: 0.4681123
+Past Beta: 0.53263485
+
+
+Unweighted Direct trust: 0.89168334
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 1.5401213
+Direct Weight using cosine: 0.43336013
+Indirect Weight using cosine: 0.56663984
+Cosine Direct: 0.38642
+Cosine Indirect: 0.28100717
+Cosine Total: 0.6674272
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 1.5393757
+Direct Weight using jaccard: 0.43364722
+Indirect Weight using jaccard: 0.5663528
+Jaccard Direct: 0.38667598
+Jaccard Indirect: 0.28086996
+Jaccard Total: 0.6675459
+Past Alpha: 0.8923495
+Past Beta: 0.10839764
+
+
+Unweighted Direct trust: 0.35939765
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 1.0078356
+Direct Weight using cosine: 0.61519384
+Indirect Weight using cosine: 0.38480613
+Cosine Direct: 0.22109923
+Cosine Indirect: 0.39891505
+Cosine Total: 0.6200143
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 1.00709
+Direct Weight using jaccard: 0.6154706
+Indirect Weight using jaccard: 0.38452944
+Jaccard Direct: 0.22119868
+Jaccard Indirect: 0.39863554
+Jaccard Total: 0.6198342
+Past Alpha: 0.3596662
+Past Beta: 0.641081
+
+
+Unweighted Direct trust: 0.60981286
+Cosine Unweighted Indirect Trust: 0.648438
+Cosine Unweighted Total Trust: 1.2582508
+Direct Weight using cosine: 0.39617428
+Indirect Weight using cosine: 0.6038257
+Cosine Direct: 0.24159217
+Cosine Indirect: 0.25689447
+Cosine Total: 0.49848664
+Jaccard Unweighted Indirect Trust: 0.6476923
+Jaccard Unweighted Total Trust: 1.2575052
+Direct Weight using jaccard: 0.39645398
+Indirect Weight using jaccard: 0.6035461
+Jaccard Direct: 0.24176273
+Jaccard Indirect: 0.25678015
+Jaccard Total: 0.49854288
+Past Alpha: 0.61026853
+Past Beta: 0.3904786
+

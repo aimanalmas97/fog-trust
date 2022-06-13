@@ -1,0 +1,46 @@
+All Servers: [A, B, S1, S2, S3, S4, S5, S6, S7, S8, S9, S10, S11, S12, S12, S13, S14, S15, S16, S17, S18, S19, S20, S21, S22, S23, S24, S25, S26, S27, S28, S29, S30]
+
+Requestor: A
+Recommendors: [S1, S2, S3, S7, S9, S13]
+Servers: [S1, S5, S25, S30]
+Locations: [S3, S15, S19, S1, S5, S25, S30, S13]
+Services: [SR1, SR4, SR9]
+
+Service Provider: B
+Recommendors: [S1, S2, S3, S7, S9, S13]
+
+S1:
+Servers: [S11, S15, S5, S30]
+Locations: [S13, S5, S11, S15, S5, S2, S30, S23]
+Services: [SR3, SR6, SR9]
+Direct Trust: 0.7
+
+S2:
+Servers: [S1, S12, S25, S30]
+Locations: [S23, S15, S19, S1, S5, S25, S30, S13, S12]
+Services: [SR1, SR4, SR29]
+Direct Trust: 0.5
+
+S3:
+Servers: [S11, S12, S2, S30, S4, S28]
+Locations: [S11, S12, S2, S30, S4, S28]
+Services: [SR14, SR29]
+Direct Trust: 0.2
+
+S7:
+Servers: [S1, S5, S3, S30]
+Locations: [S1, S5, S25, S30, S3, S15, S2, S30, S4, S28]
+Services: [SR1, SR4, SR5, SR9, SR3]
+Direct Trust: 0.8
+
+S9:
+Servers: [S7, S9, S2, S3, S1, S29]
+Locations: [S2, S3, S9, S7, S29, S1, S22]
+Services: [SR3, SR7, SR8]
+Direct Trust: 0.1
+
+S13:
+Servers: [S6, S11, S7, S9, S13, S29]
+Locations: [S6, S7, S9, S11, S13, S29, S27, S22]
+Services: [SR3, SR4, SR9]
+Direct Trust: 0.9
